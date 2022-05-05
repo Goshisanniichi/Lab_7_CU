@@ -1,1 +1,1 @@
-# Lab_7_CU
+# Lab_CU
